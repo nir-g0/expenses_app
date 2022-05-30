@@ -6,7 +6,7 @@ import './add_transaction.dart';
 
 void main() {
   runApp(MyApp());
-  //IM HACKING YOU //AHHHHHHHHH
+  //IM HACKING YOU //AHHHHHHHHH //YOU CANT STOP ME
 }
 
 class MyApp extends StatelessWidget {
